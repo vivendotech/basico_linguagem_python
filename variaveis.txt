@@ -1,0 +1,6 @@
+https://nedbatchelder.com/text/names1.html
+
+https://www.reddit.com/r/learnpython/comments/bl9y62/primitive_vs_non_primitive_values_in_python/
+
+https://en.wikiversity.org/wiki/Python_Concepts/Basic_data_types
+
