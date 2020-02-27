@@ -1,3 +1,21 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+
+article: true
+section: "teoria" # teoria, desafio, datasheet
+descricao: "Descricao que vai no card" # vai no seo tbm
+repo: "/basico_linguagem_python"
+categories: ["categoria"]
+tags: ["a","b","c"] # gera uma lista de paginas para cada categoria
+tags_seo: "a, b, c" # tags que vai no seo
+img_post: "./fluxo.png"  # img do post para as redes sociais.
+
+---
+
+
+
 ```mermaid
 graph TD;
 

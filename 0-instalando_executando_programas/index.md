@@ -1,3 +1,21 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+
+article: true
+section: "teoria" # teoria, desafio, datasheet
+descricao: "Introdução ao Python, venha entender como programar usando a linguagem do Python" # vai no seo tbm
+repo: "/basico_linguagem_python"
+categories: ["Python, basico"] # vai parao site criar
+tags: ["Python","Teoria"] # gera uma lista de paginas para cada categoria
+tags_seo: "Como programar em Python, Introdução ao Python" # tags que vai no seo
+img_post: "/stes.jpg"  # img do post para as redes sociais.
+
+---
+
+
+
 # Desenvolver em Python
 
 PAra desenvolver em python é necessário construir modulos, que veremos na sessão seguinte, e executar esses modulos com o interpretador do Python. Todos os códigos desse planeta (modulo) estão no Github, baixe os arquivos e rode o arquivo Modulo1.py.
@@ -34,4 +52,6 @@ python modulo1.py
 
 
 
+## PQ PYTHON
+pythont em o jeito obvio, quando não é o jeito obvio vc tera que colocar mais texto ou fazer mias passos.
 
