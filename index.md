@@ -5,11 +5,11 @@ draft: true
 
 article: true
 section: "teoria" # teoria, desafio, datasheet
-descricao: "Descricao que vai no card" # vai no seo tbm
+descricao: "Introducao a linguagem do Python, como dar os primeiros passos no aprendizado dessa linguagem" # vai no seo tbm
 repo: "/basico_linguagem_python"
 categories: ["categoria"]
 tags: ["a","b","c"] # gera uma lista de paginas para cada categoria
-tags_seo: "a, b, c" # tags que vai no seo
+tags_seo: "Introdução a linguagem do Python, Aulas gratuitas de python" # tags que vai no seo
 img_post: "./fluxo.png"  # img do post para as redes sociais.
 
 ---

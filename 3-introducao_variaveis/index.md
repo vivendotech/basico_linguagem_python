@@ -1,15 +1,15 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 
 article: true
 section: "teoria" # teoria, desafio, datasheet
-descricao: "Descricao que vai no card" # vai no seo tbm
+descricao: "Introdução as variveis do python, uma questão de memória" # vai no seo tbm
 repo: "/basico_linguagem_python"
 categories: ["categoria"]
 tags: ["a","b","c"] # gera uma lista de paginas para cada categoria
-tags_seo: "a, b, c" # tags que vai no seo
+tags_seo: "Como fazer uma variavel no Python, Tipos de variaveise m Python" # tags que vai no seo
 img_post: "/stes.jpg"  # img do post para as redes sociais.
 
 ---

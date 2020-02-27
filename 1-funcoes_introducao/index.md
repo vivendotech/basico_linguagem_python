@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 
 article: true
 section: "teoria" # teoria, desafio, datasheet
@@ -9,7 +9,7 @@ descricao: "Como construir funções, e como construir funções em Python" # va
 repo: "/basico_linguagem_python"
 categories: ["categoria"]
 tags: ["a","b","c"] # gera uma lista de paginas para cada categoria
-tags_seo: "a, b, c" # tags que vai no seo
+tags_seo: "Funções em python, Introdução a funções em python" # tags que vai no seo
 img_post: "/stes.jpg"  # img do post para as redes sociais.
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 
 article: true
 section: "teoria" # teoria, desafio, datasheet
-descricao: "Introdução ao Python, venha entender como programar usando a linguagem do Python" # vai no seo tbm
+descricao: "Introdução ao Python,como programar usando a linguagem do Python" # vai no seo tbm
 repo: "/basico_linguagem_python"
 categories: ["Python, basico"] # vai parao site criar
 tags: ["Python","Teoria"] # gera uma lista de paginas para cada categoria
