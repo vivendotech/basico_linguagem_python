@@ -70,6 +70,6 @@ var_string_resultado = var_int + var_string # Oi Oi
 ```
 
 
-Para ver a ação dos outros operadores siga a tabela....
+Para ver a ação dos outros operadores siga a tabela, que sera gerada pelo pull request em nosso github.
 
 <!-- https://rszalski.github.io/magicmethods/ -->
