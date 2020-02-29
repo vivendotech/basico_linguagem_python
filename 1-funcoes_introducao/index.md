@@ -82,13 +82,23 @@ O que a função significa ou faz está guardada dentro do escopo dela. Uma vez 
 
 
 
+
+
+# Operadores lógicos
+
+Metade (Tarega)
+
 # Estruturas de dados.
 
-# Controladore fluxo
+# operadores
 
 # Controladores de repetição
 
+Fimm 
+
 # Importando modulos da biblioteca padrão
+importanto o módulo random
+gerador de nick
 
 
 # Importando modulos construido na comunidade.

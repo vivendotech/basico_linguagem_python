@@ -19,6 +19,9 @@ img_post: "/stes.jpg"  # img do post para as redes sociais.
 
 O escopo no Python é determinado pela identação que as declarações são feitas. O escopo global é quando os códigos não possuem nenhum espaço na linha, ou seja a identação é de 0 espaços. Por exemplo:
 
+![Escopo explicação](escopo.png)
+
+
 ```python
 def funcao_a_que_esta_no_escopo_global():
     pass # palavra reservada que não faz nada.
@@ -113,3 +116,5 @@ no_morro()
 
 O escopo global te ajuda a controlar o acesso de uso de certas funções e variaveis. Voltaremos a falar de funções depois de falarmos a respeito de variaveis.
 
+
+# Precisamos melhorar esse post de escopo, já que ele é base de todos os outros tutoriais.
