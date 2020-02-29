@@ -13,8 +13,10 @@ tags_seo: "Operadores lógicos no python" # tags que vai no seo
 img_post: "/stes.jpg"  # img do post para as redes sociais.
 ---
 
+
 Os operadores lógicos servem para criar uma lógica no programa entre uma ou mais variaveis boleanas. No python as variaveis são fortemente tipadas o que significa que o tipo da variavel importa. E isso se demonstra quando começamos a operar variaveis no nosso programa. Iremos entrar mais a fundo nesse tópico em post seguintes mas tenha em mente que a operação que o sinal ira realizar é depentende do tipo das variaveis. Geralmente quando lidamos com operadores lógicos mostramos as possiblidades que esses operadores retornam em forma de uma tabela. Essa tabela é tão importante que tem um nome, é a famigerada tabela verdade. Em post, no nivel mediano iremos falar mais a fundo como manipular expressões lógicas, como reduzilas usando as leis de Morgan. Mas a introdução ao uso de variaveis boleanas veremos nesse post.
 
+Os operadores lógicos retoram um valor boleano conforme uam tabela verdade.
 
 # Operador de negação (Not)
 
@@ -93,6 +95,10 @@ A operação de desiguldade boleana retorna verdadeiro quando as entradas da fun
  | False | True| True |
  | True | True| False |
 
+
+# Igualdade entre duas variaveis do mesmo tipo
+
+# Operador maior menor
 
 
 Proximo topico é o operador no python

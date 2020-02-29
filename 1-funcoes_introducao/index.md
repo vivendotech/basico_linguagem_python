@@ -84,13 +84,8 @@ O que a função significa ou faz está guardada dentro do escopo dela. Uma vez 
 
 
 
-# Operadores lógicos
-
-Metade (Tarega)
 
 # Estruturas de dados.
-
-# operadores
 
 # Controladores de repetição
 

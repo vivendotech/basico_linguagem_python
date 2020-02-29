@@ -70,6 +70,10 @@ var_string_resultado = var_int + var_string # Oi Oi
 ```
 
 
+
+
 Para ver a ação dos outros operadores siga a tabela, que sera gerada pelo pull request em nosso github.
+
+A partir daqui já é possivel implementar uma calculadora. Implemente uma calculadora! UAU! :D
 
 <!-- https://rszalski.github.io/magicmethods/ -->
