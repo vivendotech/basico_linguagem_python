@@ -85,15 +85,9 @@ O que a função significa ou faz está guardada dentro do escopo dela. Uma vez 
 
 
 
-# Estruturas de dados.
 
-# Controladores de repetição
-
-Fimm 
-
-# Importando modulos da biblioteca padrão
-importanto o módulo random
-gerador de nick
+# manipulando strings
+# adicionando elementos a uma lista 
 
 
 # Importando modulos construido na comunidade.

@@ -41,7 +41,7 @@ print(var_tupla_banco_dados[2]) # imprimi João
 
 # Construindo uma lista de dados
 
-Uma vez que possuimos mais de um valor que representa algo devemos listar. Por exemplo, vamos disser que tenhamos dois dados a respeito de nossos funcionarios. Esses dados devem ser postos numa lista, veja exemplo 2. Definir melhor o que é uma lista de dados. 
+Uma vez que possuimos mais de um valor que representa algo devemos listar. Por exemplo, vamos disser que tenhamos dois dados a respeito de nossos funcionarios. Esses dados devem ser postos numa lista, veja exemplo 2. Definir melhor o que é uma lista de dados. Uma lista é uma sequencia, alguma vezes ordenada, de dados que falam a respeito da mesma coisa. Por exemplo, uma lista de funcionarios, alimentos etc.
 
 
 ## Construindo uma lista
@@ -65,7 +65,7 @@ print(list_funcionarios[2]) # ("dona_mariquinha", 10000, "dona da empresa")
 
 # Dicionario
 
-A estrutura de dados chamada de dicionario no python também é extremamente popular. Ela como a tupla guarda elementos que devem ser processadas, manipuladas, enviadas juntos. A diferença é que ela te permite guardar o valor e o nome da variavel que esse valor pertence.
+A estrutura de dados chamada de dicionario no Python também é extremamente popular. Ela como a tupla guarda elementos que devem ser processadas, manipuladas, enviadas juntos. A diferença é que ela te permite guardar o valor e o nome da variavel que esse valor pertence.
 
 
 ## Construindo um dicionario
@@ -82,7 +82,7 @@ dicionario_empregado = { "nome"    : "joao",
 
 Para acessar os elementos do dicionario deve-se escrever entre parenteses o nome da chave do valor que gostaria de retorar. Veja o exemplo 2
 
-```
+```python
 print(dicionario_empregado["nome"])
 ```
 
